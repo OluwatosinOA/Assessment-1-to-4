@@ -1,0 +1,7 @@
+C:\Users\USER PC\Documents\Questions1to4\Test1to4\Test1to4\obj\Debug\Test1to4.csprojAssemblyReference.cache
+C:\Users\USER PC\Documents\Questions1to4\Test1to4\Test1to4\obj\Debug\Test1to4.csproj.CoreCompileInputs.cache
+C:\Users\USER PC\Documents\Questions1to4\Test1to4\Test1to4\bin\Debug\Test1to4.exe.config
+C:\Users\USER PC\Documents\Questions1to4\Test1to4\Test1to4\bin\Debug\Test1to4.exe
+C:\Users\USER PC\Documents\Questions1to4\Test1to4\Test1to4\bin\Debug\Test1to4.pdb
+C:\Users\USER PC\Documents\Questions1to4\Test1to4\Test1to4\obj\Debug\Test1to4.exe
+C:\Users\USER PC\Documents\Questions1to4\Test1to4\Test1to4\obj\Debug\Test1to4.pdb
